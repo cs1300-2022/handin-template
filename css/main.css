@@ -13,7 +13,7 @@ body {
 }
 
 /** Centers image and adds width restirctions. */
-img {
+.responsive-img {
     margin: 0 auto;
     display: block;
 
